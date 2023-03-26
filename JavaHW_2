@@ -1,4 +1,4 @@
-`` package homework;
+package homework;
 import java.util.Scanner;
 public class HomeWork {
     public static String myFunction(Scanner scanner){
@@ -102,4 +102,4 @@ public class HomeWork {
         return caloriesDifference;
     }
 
-} ``
+}
